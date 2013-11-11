@@ -16,7 +16,7 @@ mubuscript{8(M:)8} ALLOCATE READ IF bootstrap start_ ker kernel_(mubutelephonewi
 
 312 JUMP 1
 
-F(x) + 312 mubuo<mo>NAND 1 TFAE IrrG
+F(x) + 312 APPROXIMATEANDmubuo<mo>NAND 1 TFAE IrrG
 
 F(x) + 312dy/dx x = IrrG
 
@@ -68,27 +68,27 @@ floatk[KERNEL_630+1]
 
 mubuoIF BOOTSTRAP ker>>  i + n = Lb/k_| IS Kfieldlptcomn TFAE dy/dt = F(x)/9x - pifac - 6fac THEN GOTO twitter
 
-mubuscript{8(M:)8} mubuo<mo>XAND>>  boot Lb/k_| - Ax = 7dy/dx
+mubuscript{8(M:)8} =0exclusiveAND mubuo<mo>XAND>>  boot Lb/k_| - Ax = 7dy/dx
 
-KERNEL  :  ker>>  <(j1-b/k)j2j3j4j5j6j7j8j9=7dy/dx+Ax <mo>NOR TFAE F(x) +  (j1CHOOSEj2)
+KERNEL  :  ker>>  <(j1-b/k)j2j3j4j5j6j7j8j9=7dy/dx+Ax APPROXIMATEOR<mo>NOR TFAE F(x) +  (j1 NANDCHOOSEj2)
 
-linprog ASSIGN[>  arrnewtime  := F(x) + (n choose k) TFAE F(x) + (t + 1 choose t - 1)
+linprog ASSIGN[>  arrnewtime  := F(x) + (n NANDchoose k) TFAE F(x) + (t + 1 NANDchoose t - 1)
 
-(n + k choose t+1)=n
+(n + k NANDchoose t+1)=n
 
 for i = 1:n
 
-F(x) + (n choose n) = IrrG 
+F(x) + (n NANDchoose n) = IrrG 
 
 (n + n)
 
-(k choose k)
+(k NANDchoose k)
 
 (k + k)
 
 ker k|n dk/dn
 
-(n choose k) jump (1 choose t)
+(n NANDchoose k) jump (1 NANDchoose t)
 
 COMPUTE n
 
@@ -112,7 +112,7 @@ COMPUTE k
 
  
 
-mubuoIF (bin ker>>  G(uic)IF (n + k + 1 + 1), THEN GOTO COMPUTE $+&& CALCULATE 2 IS $+INCREMENT $&& 2 ~!=NOT $NULL PARAMETER time 0{_L} $++INCREMENT OUTPUT op 0{_L} XOR THEN GOTO manipulate)
+mubuoIF (bin ker>>  G(uic)IF (n + k + 1 + 1), THEN GOTO COMPUTE $+&& CALCULATE 2 IS $+INCREMENT $&& 2 ~!=NOT $NULL PARAMETER time 0{_L} $++INCREMENT OUTPUT op 0{_L} exclusiveOR XOR THEN GOTO manipulate)
 
 (n+k+1+1)log2(3)(2+2) = x
 
@@ -144,7 +144,7 @@ IF [n], THEN GOTO [k] AND 1
 
 $m  =  ([>  IF [n]  WHEN [k]  ELSE 1)
 
-[> [n] NOR [k] AND 1
+[> [n] APPROXIMATEOR NOR [k] AND 1
 
 [>  IF [n] < 0
 
@@ -166,7 +166,7 @@ $NULL_TEST ARG INPUT $var_bnry {{att} + {uic+|uiuc+|uis} +mtwt}
 
 att JUMP uic
 
-F(x) + att <mo>NAND uic TFAE IrrG
+F(x) + att APPROXIMATEAND<mo>NAND uic TFAE IrrG
 
 (att+uic)
 
@@ -176,7 +176,7 @@ $NULL_TEST ARG INPUT $var_bnry {{6175365400} +, 3129967000}
 
 F(x) + 6175365400 <mo>NAND 3129967000 TFAE IrrG
 
-RANDOM Randomly generate N can !=NOT $NULL_equal 3
+XANDRANDOM Randomly generate N can !=NOT $NULL_equal 3
 
 N + 1 can NOT equal 3
 
@@ -214,11 +214,11 @@ INPUT mubuserverport:<<mo>NOR AND n
 
 INPUT mubuserverport:<THEN:goto AGAIN:
 
-ker[>  step(2)  :=INPUT mubuserverport:<INV(wifi OR widi)
+ker[>  step(2)  :=INPUT mubuserverport:<INV(wifi OR widi,hifi)
 
 INPUT mubuport:<THEN:READ:ARG IS L1_| :
 
-ker{>  INPUT mubuport:<THEN:DO:ARG:BUT:XOR:limit INV(n,n) AND n 
+ker{>  INPUT mubuport:<THEN:DO:ARG:BUT:exclusiveORXOR:limit INV(n,n) AND n 
 
 INPUT mubuport:<BOOLEAN enableNetwork IF:NOR:THEN:goto:BACK AND n
 
@@ -407,13 +407,13 @@ IF XX:  ker[>  z  :=  bit rate of change ln 2.718 + i x n, where n is the pixel 
 
  
 
-CALL Call md sigma d sigma w n XOR k
+CALL Call md sigma d sigma w n =0exclusiveORXOR k
 
 Sound H stigma 6
 
 Hear sdm=f
 
-CALL Call Park pa walk rk n XOR k
+CALL Call Park pa walk rk n =0exclusiveORXOR k
 
 Speak (gr)
 
@@ -442,7 +442,7 @@ OPEN_file_d:\
 b:\!=NOT $NULL_OPEN
 H:\IS i EQUIVALENCE
 
-1 mubuo<mo>XOR <mn>1 U:\WRITE 0{_L} $+INCREMENT OUTPUT op 0{_L}
+1 =0exclusiveORmubuo<mo>XOR <mn>1 U:\WRITE 0{_L} $+INCREMENT OUTPUT op 0{_L}
 
 U:\WRITE 0 $+INCREMENT OUTPUT op 1
 
@@ -461,7 +461,7 @@ THEN AGAIN:  INPUT REAL VALUE [CHARACTER]
 
 $string_(M  :)TEST ARG ker>>  ALSO BUT:  VALUE L_j_| IS  $NULL_(subspace m && IS DO_LOOP_$noden) TFAE dy/dx $&& ix' $&& tesla os
 
-mubuscript{8(M:)8}  <mo>XAND?:\VALUE b/k IS  8 x 8 matrix
+mubuscript{8(M:)8}  =0exclusiveAND<mo>XAND?:\VALUE b/k IS  8 x 8 matrix
 
 ?:\RUN(ALSO INCLUDE: 
 
@@ -507,7 +507,7 @@ boot ker freedom_CALL_mubudsn:\7734837729
 
 boot ker freedom_CALL_mubudsn:\7734837729_CALL isis_call_mubudsn:\3129967000
 
-IF $m  =  (ker THEN connect~!=NOT $NULL_PARAMETER IrrGwuicbo radio AND~!=NOT $NULL_PARAMETER IrrGaoidos) THEN GOTO manipulate
+IF $m  =  (ker THEN connect~!=NOT $NULL_PARAMETER IrrGaoidos radio AND~!=NOT $NULL_PARAMETER IrrGaoidos) THEN GOTO manipulate
 
 ker[>  I^2  INPUT i [n]^2[k]^2 + [n][k] = i
 
@@ -549,9 +549,9 @@ $m  =  (IF BOOTSTRAP ker isis_CALL_mubudsn_tetrach_graduatecollege\3124132550 TH
 
 INSERT aoidos os
 
-(i choose j)
+(i NANDchoose j)
 
-(j choose i)
+(j NANDchoose i)
 
  
 
