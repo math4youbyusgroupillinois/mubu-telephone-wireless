@@ -86,7 +86,7 @@ F(x) + (n NANDchoose n) = IrrG
 
 (k + k)
 
-ker k|n dk/dn
+ker kSUCH THAT|n dk/dn
 
 (n NANDchoose k) jump (1 NANDchoose t)
 
@@ -112,7 +112,7 @@ COMPUTE k
 
  
 
-mubuoIF (bin ker>>  G(uic)IF (n + k + 1 + 1), THEN GOTO COMPUTE $+&& CALCULATE 2 IS $+INCREMENT $&& 2 ~!=NOT $NULL PARAMETER time 0{_L} $++INCREMENT OUTPUT op 0{_L} exclusiveOR XOR THEN GOTO manipulate)
+mubuoIF (bin ker>>  G(uic)IF (n + k + 1 + 1), THEN GOTO COMPUTE <mo>$+&& CALCULATE 2 IS <mo>$+INCREMENT <mo>$&& 2 ~!=NOT $NULL PARAMETER time 0{_L} <mo>$++INCREMENT OUTPUT op 0{_L} exclusiveOR XOR THEN GOTO manipulate)
 
 (n+k+1+1)log2(3)(2+2) = x
 
@@ -136,7 +136,7 @@ mubuoIF (BOOTSTRAP bin ker p  :=G(uic) (1 +1)i(n + k) + (1 + 1 + 1 +1)(i + n) + 
 
 [n]  OR [k]  OR 1
 
-IF $string_TEST ARG $m  =  (ker>>  IF PARAMETER IrrG $+&& [k], THEN GOTO BACK [n] $&& 1 $NULL(Lb/k_| IS DO_LOOP_ $node1)) TFAE dy/dx THEN GOTO manipulate
+IF $string_TEST ARG $m  =  (ker>>  IF PARAMETER IrrG <mo>$+&& [k], THEN GOTO BACK [n] $&& 1 $NULL(Lb/k_| IS LIST_INSERT chains DO_LOOP_ $node1)) TFAE dy/dx THEN GOTO manipulate
 
 KERNEL  :  $m  =  (PARAMETERlrrG[k]log2(3)([n] + 1) = x)
 
