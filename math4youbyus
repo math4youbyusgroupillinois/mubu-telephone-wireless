@@ -4,7 +4,7 @@ mubuoIF curl -fsSL https://raw.github.com/mozilla-b2g/B2G/master/scripts/bootstr
 mubusemanticsTHERE &EXIST yellow telephone services for mubu telephone wireless technologies.
 math4youbyus.mubutelephonewirelesstechnologiesutilities.rc 
 
-mubuscript{8(M:)8} ALLOCATE READ IF bootstrap start_ ker kernel_(mubutelephonewireless) OVERFLOW THEN GOTO twitter
+mubuscript{8(M:)8} ALLOCATE LIST_INSERT mubuserverport READ IF? bootstrap start_ ker kernel_(mubutelephonewireless) OVERFLOW THEN? GOTO twitter
 
 [>  step  :=  proc(bigtenutelecomisis) 
 
@@ -16,13 +16,13 @@ mubuscript{8(M:)8} ALLOCATE READ IF bootstrap start_ ker kernel_(mubutelephonewi
 
 312 JUMP 1
 
-F(x) + 312 APPROXIMATEANDmubuo<mo>NAND 1 TFAE IrrG
+F(x) + 312 APPROXIMATEANDmubuo<mo>NAND 1 TFAE LIST_INSERT mubuserverport IrrG
 
-F(x) + 312dy/dx x = IrrG
+F(x) + 312dy/dx x = LIST_INSERT mubuserverport IrrG
 
-F(x)  - IrrG = 312idy/dx
+F(x)  - LIST_INSERT mubuserverport IrrG = 312idy/dx
 
-F(x) $-DECREMENT IrrG TFAE 312idy/dx
+F(x) $-DECREMENT LIST_INSERT mubuserverport IrrG TFAE 312idy/dx
 
 2^16/8 - 2^277/8/2^7
 
@@ -54,9 +54,9 @@ floatk[KERNEL_773 + 1] IS k
 
 floatK[KERNEL_872 + 1] IS 1
 
-ASSIGN ALLOCATE floatk[KERNEL_312+1]
+LIST_INSERT cloverleaves ASSIGN ALLOCATE floatk[KERNEL_312+1]
 
-ASSIGN ALLOCATE floatk[KERNEL_773+1]
+LIST_INSERT cloverleaves ASSIGN ALLOCATE floatk[KERNEL_773+1]
 
 floatk[KERNEL_847+1]
 
@@ -66,7 +66,7 @@ floatk[KERNEL_630+1]
 
 617 DIV k = 773 
 
-mubuoIF BOOTSTRAP ker>>  i + n = Lb/k_| IS Kfieldlptcomn TFAE dy/dt = F(x)/9x - pifac - 6fac THEN GOTO twitter
+mubuoIF? BOOTSTRAP ker>>  i + n = Lb/k_| IS Kfieldlptcomn TFAE dy/dt = F(x)/9x - pifac - 6fac THEN? GOTO twitter
 
 mubuscript{8(M:)8} =0exclusiveAND mubuo<mo>XAND>>  boot Lb/k_| - Ax = 7dy/dx
 
@@ -78,7 +78,7 @@ linprog ASSIGN[>  arrnewtime  := F(x) + (n NANDchoose k) TFAE F(x) + (t + 1 NAND
 
 for i = 1:n
 
-F(x) + (n NANDchoose n) = IrrG 
+F(x) + (n NANDchoose n) = LIST_INSERT mubuserverport IrrG 
 
 (n + n)
 
@@ -112,13 +112,13 @@ COMPUTE k
 
  
 
-mubuoIF (bin ker>>  G(uic)IF (n + k + 1 + 1), THEN GOTO COMPUTE <mo>$+&& CALCULATE 2 IS <mo>$+INCREMENT <mo>$&& 2 ~!=NOT $NULL PARAMETER time 0{_L} <mo>$++INCREMENT OUTPUT op 0{_L} exclusiveOR XOR THEN GOTO manipulate)
+mubuoIF (bin ker>>  G(uic)IF? (n + k + 1 + 1), THEN? GOTO COMPUTE <mo>$+&& CALCULATE 2 IS <mo>$+INCREMENT <mo>$&& 2 ~!=NOT $0=\NULL PARAMETER time 0{_L} <mo>$++INCREMENT OUTPUT op 0{_L} exclusiveOR XOR THEN? GOTO manipulate) AND google
 
 (n+k+1+1)log2(3)(2+2) = x
 
-$null_log2(3)(2+2) = x/(n+k+1+1) TFAE noden
+$0=null_log2(3)(2+2) = x/(n+k+1+1) TFAE LIST_INSERT sifidious noden
 
-mubuoIF (BOOTSTRAP bin ker p  :=G(uic) (1 +1)i(n + k) + (1 + 1 + 1 +1)(i + n) + i[x]' + (1 +1)i/n + k = (1 + 1 + 1 +1)~!=NOT $NULL PARAMETER time $++INCREMENT n DIMENSION gigabytes AND kfielduic TFAE dy/dx THEN GOTO manipulate AND twitter)
+mubuoIF? (BOOTSTRAP bin ker p  :=G(uic) (1 +1)i(n + k) + (1 + 1 + 1 +1)(i + n) + i[x]' + (1 +1)i/n + k = (1 + 1 + 1 +1)~!=NOT $0=NULL PARAMETER time $++INCREMENT n DIMENSION gigabytes AND kfielduic TFAE dy/dx THEN GOTO manipulate AND twitter) AND google
 
 [n] IFF [k]
 
